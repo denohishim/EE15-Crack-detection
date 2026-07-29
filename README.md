@@ -21,13 +21,16 @@ as a Streamlit web application.
 - Test accuracy: **92.74%**
 - A custom CNN built from scratch was also trained for comparison (88.85% accuracy)
 ## Project Structure
-├── app.py # Streamlit application
-├── train_model.py # Training script
-├── requirements.txt # Python dependencies
-├── runtime.txt # Specifies Python 3.11 for cloud deployment
+
+```
+├── app.py                # Streamlit application
+├── train_model.py        # Training script
+├── requirements.txt      # Python dependencies
+├── runtime.txt           # Specifies Python 3.11 for cloud deployment
 ├── models/
-│ └── mobilenetv3_transfer.keras # Trained model
+│   └── mobilenetv3_transfer.keras   # Trained model
 └── README.md
+```
 ## How to Run Locally
 
 ```bash
@@ -39,7 +42,9 @@ streamlit run app.py
 2. Upload a photo of a concrete bridge deck surface (.jpg or .png)
 3. The app displays the prediction (Cracked / Non-Cracked) with a confidence score
 ## Group Members — EE15
+
 | Name | Registration Number | GitHub Username |
+|------|---------------------|------------------|
 | Uduakobong Enoh | 22/EG/EE/2047 | denohishim |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
