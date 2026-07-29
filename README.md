@@ -1,5 +1,5 @@
 # EE15 – Concrete Bridge Deck Crack Detection (Cracked vs Non-Cracked)
-GET324 Laboratory Exercise 10 (Mini-Project) — Cloud Computing and AI Model
+GET324 Laboratory Exercise 10 (Mini-Project): Cloud Computing and AI Model
 Deployment for Engineering Applications.
 ## Overview
 This project trains a Convolutional Neural Network (CNN) using transfer
@@ -39,7 +39,7 @@ streamlit run app.py
 2. Upload a photo of a concrete bridge deck surface (.jpg or .png)
 3. The app displays the prediction (Cracked / Non-Cracked) with a confidence score
 ## Group Members — EE15
-# | Name | Registration Number | GitHub Username |
+| Name | Registration Number | GitHub Username |
 | Uduakobong Enoh | 22/EG/EE/2047 | denohishim |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
