@@ -46,6 +46,7 @@ streamlit run app.py
 | Name | Registration Number | GitHub Username |
 |------|---------------------|------------------|
 | Uduakobong Enoh | 22/EG/EE/2047 | denohishim |
+| Nyebuk Johnson | 22/EG/EE/2027 | nyebukjay |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
