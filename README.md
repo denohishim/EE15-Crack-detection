@@ -48,6 +48,7 @@ streamlit run app.py
 | Uduakobong Enoh | 22/EG/EE/2047 | denohishim |
 | Nyebuk Johnson | 22/EG/EE/2027 | nyebukjay |
 | Etimfon Titus | 22/EG/EE/2067 | etirexxie|
+| Sinem-favour Udo | 22/EG/EE/1987 | ceenem |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
