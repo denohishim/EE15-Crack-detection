@@ -53,6 +53,7 @@ streamlit run app.py
 | Okon Joseph Itoro | 22/EG/EE/2057 | okonj907-arch |
 | Victor Augustine | 22/EG/EE/2097 | V-TECHS |
 | Eyo Elisha | 22/EG/EE/2037 | elishaeyo1-stack |
+| Gideon Dominic Okono| 22/EG/EE/1967 | Gideones1 |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
