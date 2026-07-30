@@ -49,6 +49,8 @@ streamlit run app.py
 | Nyebuk Johnson | 22/EG/EE/2027 | nyebukjay |
 | Etimfon Titus | 22/EG/EE/2067 | etirexxie|
 | Sinem-favour Udo | 22/EG/EE/1987 | ceenem |
+| Ukpong Daniel | 22/EG/EE/2117 |
+duwem5678-wq |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
