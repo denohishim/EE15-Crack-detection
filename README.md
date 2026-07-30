@@ -52,6 +52,7 @@ streamlit run app.py
 | Ukpong Daniel | 22/EG/EE/2117 | duwem5678-wq |
 | Okon Joseph Itoro | 22/EG/EE/2057 | okonj907-arch |
 | Victor Augustine | 22/EG/EE/2097 | V-TECHS |
+| Eyo Elisha | 22/EG/EE/2037 | elishaeyo1-stack |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
