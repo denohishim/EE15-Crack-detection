@@ -59,6 +59,7 @@ streamlit run app.py
 | Akpanumoh Edikanabasi Francis | 22/EG/EE/1957 | EsKhay-gif |
 | Saviour Edet Effiong | 22/EG/EE/2107 | symplysave |
 | ETENG, REDEEM UBI | 22/EG/EE/2007 | redeemeteng|
+| Aniebiet Etop Abatai | 22/EG/EE/2077 | Anibest27 |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
