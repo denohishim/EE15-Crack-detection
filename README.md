@@ -58,6 +58,7 @@ streamlit run app.py
 | Godswill Gregory Asuquo| 22/EG/EE/2087| godswillasuquo713-tech
 | Akpanumoh Edikanabasi Francis | 22/EG/EE/1957 | EsKhay-gif |
 | Saviour Edet Effiong | 22/EG/EE/2107 | symplysave |
+| ETENG, REDEEM UBI | 22/EG/EE/2007 | different |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
