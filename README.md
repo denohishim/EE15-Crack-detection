@@ -55,6 +55,7 @@ streamlit run app.py
 | Eyo Elisha | 22/EG/EE/2037 | elishaeyo1-stack |
 | Gideon Dominic Okono| 22/EG/EE/1967 | Gideones1 |
 | Okorn Victory Effiong | 22/EG/EE/1997 | Victoryokorn |
+| Godswill Gregory Asuquo| 22/EG/EE/2087| godswillasuquo713-tech
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
