@@ -57,6 +57,7 @@ streamlit run app.py
 | Okorn Victory Effiong | 22/EG/EE/1997 | Victoryokorn |
 | Godswill Gregory Asuquo| 22/EG/EE/2087| godswillasuquo713-tech
 | Akpanumoh Edikanabasi Francis | 22/EG/EE/1957 | EsKhay-gif |
+| Saviour Edet Effiong | 22/EG/EE/2107 | symplysave |
 ## Deployment
 Deployed on Streamlit Community Cloud, connected directly to this GitHub
 repository. Any push to the `main` branch triggers an automatic redeploy.
