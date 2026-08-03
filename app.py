@@ -46,11 +46,11 @@ if uploaded_file:
     img = Image.open(uploaded_file)
     st.image(img, width=300)
 
-    label, cracked_pct, non_cracked_pct = predict(model, img)
-    st.write(f"**Prediction:** {label}")
-
-    st.progress(int(cracked_pct), text=f"Cracked: {cracked_pct:.1f}%")
-    st.progress(int(non_cracked_pct), text=f"Non-Cracked: {non_cracked_pct:.1f}%")
+    if st.button("Predict"):
+        label, cracked_pct, non_cracked_pct = predict(model, img)
+        st.write(f"**Prediction:** {label}")
+        st.progress(int(cracked_pct), text=f"Cracked: {cracked_pct:.1f}%")
+        st.progress(int(non_cracked_pct), text=f"Non-Cracked: {non_cracked_pct:.1f}%")
 else:
     st.info("Please upload an image to get a prediction.")
 
